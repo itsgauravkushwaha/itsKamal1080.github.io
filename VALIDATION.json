@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/Nikolakevinzo/gagan-engineering-website",
+  "base_commit": "24958e9455537555736f44e9fa09d2aaf92791d5",
+  "reviewed_local_commit": "5cd661843a5223e019a5417cb71633fc0a4bed4b",
+  "patch_sha256": "ef700ea21464fd95b4d0daf55f3bf7ed261c08c31d7b34ed2c02657e734a742f",
+  "patch_applied_to_original_base": true,
+  "patched_files_match_tested_commit": 23,
+  "validation": {
+    "python_tests_passed": 57,
+    "frontend_tests_passed": 18,
+    "production_frontend_build": "passed"
+  },
+  "pushed": false,
+  "production_deployment_verified": false,
+  "new_blog_added": false
+}
